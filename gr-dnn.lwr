@@ -21,6 +21,7 @@ category: common
 depends:
 - gnuradio
 - numpy
+- gr-iio
 description: Gnuradio blocks fo machine learning inference using ONNX models.
 gitbranch: master
 inherit: cmake
