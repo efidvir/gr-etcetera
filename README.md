@@ -1,3 +1,4 @@
+# Efi Dvir's special recipes
 # gr-etcetera -- Extended set of GNU Radio-related recipes for PyBOMBS
 
 This repository stores additional recipes for GNU Radio.
@@ -7,7 +8,7 @@ To add this to your local PyBOMBS recipe list, use the following command:
     $ pybombs recipes add gr-etcetera https://github.com/efidvir/gr-etcetera.git
 
 
-To find more recipes from the GNU Radio universe, see the gr-recipes repository:
+To find more recipes from the GNU Radio universe, see the orignal (non-forked) gr-recipes repository:
 
 - https://github.com/gnuradio/gr-recipes
 
